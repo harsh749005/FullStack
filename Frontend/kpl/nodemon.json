@@ -1,0 +1,6 @@
+{
+    "watch": ["vite.config.js"],
+    "ext": "js,json",
+    "exec": "vite"
+  }
+  
